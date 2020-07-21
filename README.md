@@ -28,7 +28,7 @@
 [27] VK             | [28] Yandex
 [29] devianART      | [30] Snapchat
 
-* More Pages Upcomming Stay Tunned 
+* More Pages are comming in next Version Stay Tunned...
 
 ## Tested On :
 
