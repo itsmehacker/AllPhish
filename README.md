@@ -28,6 +28,7 @@
 [27] VK             | [28] Yandex
 [29] devianART      | [30] Snapchat
 
+* More Pages Upcomming Stay Tunned 
 
 ## Tested On :
 
@@ -38,13 +39,6 @@
 * Termux
 * Parrot OS
 
-## Installation
-
-```bash
-git clone https://github.com/itsmehacker/allphish.git
-cd Allphish/
-pip3 install -r requirements.txt
-```
 
 ## Known Problems
 
