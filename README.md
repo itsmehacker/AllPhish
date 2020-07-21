@@ -51,4 +51,4 @@ pip3 install -r requirements.txt
 * Sometimes php causes issue in opening Phising Page on Web browser for that just restart the Script and kill the process of php
 
 ## Disclaimer 
-This Tool is Only for Educational Purpose. If any misuse or illegal activity happens Developer will be not responsible
+* This Tool is Only for Educational Purpose. If any misuse or illegal activity happens Developer will be not responsible
