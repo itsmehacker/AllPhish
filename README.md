@@ -30,6 +30,10 @@
 
 * More Pages are comming in next Version Stay Tunned...
 
+## Features :
+* Email Phishing 
+* Website Phishing 
+
 ## Tested On :
 
 * Kali Linux
